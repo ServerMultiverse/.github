@@ -15,3 +15,6 @@ Database storing extra information users provide when they enroll and list a ser
 Backend - Rust
 Frontend - React
 Database - ?
+
+## Architecture
+- api requests planned

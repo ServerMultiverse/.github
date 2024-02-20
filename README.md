@@ -4,6 +4,7 @@ Website showing a list of servers
 - profiles
 - lists of servers
 - advertising slots - users can pay to put their server at the top of a list for a month
+- server lists typically have voting capabilities - this is done with votifier https://github.com/nuvotifier/NuVotifier
 
 A service that calls minecraft servers themselfs for live data
 

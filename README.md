@@ -17,7 +17,6 @@ Frontend - React
 Database - ?  
 
 ## Architecture
-- api requests planned
 
 Services  
 https://lucid.app/lucidchart/e5ca39e5-12fd-436c-927b-3c87f59646c1/edit?viewport_loc=-11%2C-11%2C3072%2C1567%2C0_0&invitationId=inv_bd0ea61e-9e46-41e2-99d9-f73a4ae44918

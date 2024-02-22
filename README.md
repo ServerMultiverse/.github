@@ -9,12 +9,7 @@ Website showing a list of servers
 
 A service that calls minecraft servers themselfs for live data
 
-Database storing extra information users provide when they enroll and list a server
-
-## Techstack
-Backend - Rust  
-Frontend - React  
-Database - ?  
+Database storing extra information users provide when they enroll and list a server 
 
 ## Architecture
 
